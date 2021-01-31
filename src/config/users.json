@@ -1,0 +1,19 @@
+[{
+    "id": 0,
+    "username": "test",
+    "private": {
+        "deleted": false
+    }
+}, {
+    "id": 1,
+    "username": "root",
+    "private": {
+        "deleted": true
+    }
+}, {
+    "id": 2,
+    "username": "admin",
+    "private": {
+        "deleted": false
+    }
+}]
